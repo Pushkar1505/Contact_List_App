@@ -1,0 +1,23 @@
+/* AddContactForm.css */
+.add-contact-form {
+  margin-bottom: 20px;
+}
+
+.add-contact-form input {
+  width: 70%;
+  padding: 8px;
+  margin-right: 10px;
+}
+
+.add-contact-form button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 15px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.add-contact-form button:hover {
+  background-color: #0b4170;
+}
