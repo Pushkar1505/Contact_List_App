@@ -1,4 +1,3 @@
-// AddContactForm.js
 import React, { useState } from 'react';
 import '../AddContact/AddContactForm.css'; // Import the CSS
 

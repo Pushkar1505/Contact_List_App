@@ -1,4 +1,3 @@
-// App.js
 import React, { useState, useEffect } from 'react';
 import { fetchUsers, addNewContact, updateContact, deleteContact } from './services/api';
 import ContactList from './components/ContactList/ContactList';

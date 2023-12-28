@@ -1,4 +1,3 @@
-// ContactList.js
 import React from 'react';
 import ContactItem from '../ContactItem/ContactItem';
 import '../ContactList/ContactList.css'; // Import the CSS
